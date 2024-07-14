@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 import (
+	"github.com/denglitong/golang/hello/morestrings"
 	"github.com/google/go-cmp/cmp"
-	"golang/hello/morestrings"
 )
 
 func main() {

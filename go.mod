@@ -1,4 +1,4 @@
-module golang
+module github.com/denglitong/golang
 
 go 1.21
 
