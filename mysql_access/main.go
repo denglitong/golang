@@ -4,7 +4,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/denglitong/golang/mysql-access/basic"
+	"github.com/denglitong/golang/mysql_access/basic"
 	"log"
 )
 

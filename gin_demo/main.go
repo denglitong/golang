@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/denglitong/golang/gin-demo/examples"
+	"github.com/denglitong/golang/gin_demo/examples"
 	"github.com/gin-gonic/gin"
 	"golang.org/x/sync/errgroup"
 	"log"

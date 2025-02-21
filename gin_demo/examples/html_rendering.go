@@ -1,7 +1,7 @@
 package examples
 
 import (
-	"github.com/denglitong/golang/gin-demo/templates"
+	"github.com/denglitong/golang/gin_demo/templates"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )

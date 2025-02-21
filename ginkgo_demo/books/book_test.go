@@ -4,7 +4,7 @@ package books_test
 
 import (
 	"fmt"
-	"github.com/denglitong/golang/ginkgo-demo/books"
+	"github.com/denglitong/golang/ginkgo_demo/books"
 	"time"
 
 	. "github.com/onsi/ginkgo/v2"

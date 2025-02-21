@@ -4,7 +4,7 @@
 package main
 
 import (
-	"github.com/denglitong/golang/gorm-demo/crud"
+	"github.com/denglitong/golang/gorm_demo/crud"
 )
 
 // DB_USER=root DB_PASSWORD=12345678 go run .

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/alecthomas/inject"
-	"github.com/denglitong/golang/inject-demo/db"
+	"github.com/denglitong/golang/inject_demo/db"
 )
 
 func main() {
