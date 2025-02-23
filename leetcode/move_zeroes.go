@@ -1,5 +1,6 @@
 package leetcode
 
+// https://leetcode.cn/problems/move-zeroes/description/
 func moveZeroes(nums []int) {
 	if len(nums) < 2 {
 		return

@@ -108,6 +108,7 @@ func (s *LCS) MaxLCSLen() int {
 	return maxLen
 }
 
+// https://leetcode.cn/problems/longest-consecutive-sequence/description
 func longestConsecutive(nums []int) int {
 	//lcs := NewLCS()
 	//for _, n := range nums {

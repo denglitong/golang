@@ -35,6 +35,7 @@ func diffWin(s_wins [][52]int, i, j int) [52]int {
 	return res
 }
 
+// https://leetcode.cn/problems/minimum-window-substring/description/
 func minWindow(s string, t string) string {
 	s_len, t_len := len(s), len(t)
 	if s_len < t_len {

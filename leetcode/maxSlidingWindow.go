@@ -25,6 +25,7 @@ func (s *MonotonicDecreaseQueue) Max() int {
 	return s.data[0]
 }
 
+// https://leetcode.cn/problems/sliding-window-maximum/description/
 func maxSlidingWindow(nums []int, k int) []int {
 	mdq := NewMonotonicDecreaseQueue()
 	for i := 0; i < k; i++ {

@@ -1,5 +1,6 @@
 package leetcode
 
+// https://leetcode.cn/problems/subarray-sum-equals-k/description/
 func subarraySum(nums []int, k int) int {
 	n := len(nums)
 	leftSums := make([]int, n)

@@ -15,6 +15,7 @@ func hash(bytes []byte) string {
 	return string(sorted_bytes)
 }
 
+// https://leetcode.cn/problems/find-all-anagrams-in-a-string/description/
 func findAnagrams(s string, p string) []int {
 	s_len, p_len := len(s), len(p)
 	if p_len > s_len {

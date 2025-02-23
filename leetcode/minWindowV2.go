@@ -10,6 +10,7 @@ func check(w1 map[uint8]int, w2 map[uint8]int) bool {
 	return true
 }
 
+// https://leetcode.cn/problems/minimum-window-substring/description/
 func minWindowV2(s string, t string) string {
 	res := ""
 	sLen, tLen := len(s), len(t)

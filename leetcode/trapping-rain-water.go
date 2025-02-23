@@ -1,5 +1,6 @@
 package leetcode
 
+// https://leetcode.cn/problems/trapping-rain-water/description/
 func trap(height []int) int {
 	n := len(height)
 	maxI, maxV := 0, height[0]
