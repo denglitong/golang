@@ -1,4 +1,4 @@
-package linked_list
+package leetcode
 
 // Definition for singly-linked inputList.
 type ListNode struct {

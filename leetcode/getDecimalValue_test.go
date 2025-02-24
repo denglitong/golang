@@ -1,4 +1,4 @@
-package linked_list
+package leetcode
 
 import (
 	"github.com/stretchr/testify/assert"
